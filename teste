@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste pixel</title>
+</head>
+<body>
+    <script	
+    src="https://video.seenthis.se/public/tag-loader/2/loader.js"	
+    data-id="RRHVi6h0Wg"	
+    data-clicktag=""	
+    data-gdpr="gdpr=${GDPR}"	
+    data-gdpr-consent="gdpr_consent=${GDPR_CONSENT_415}"	
+    data-addtl-consent="addtl_consent=${ADDTL_CONSENT}"	
+    data-src="https://video.seenthis.se/v2/builds/RRHVi6h0Wg/index.html"	
+    data-width="320px"	
+    data-height="250px"
+    ></script>
+
+    <script>
+        window.onload = function() {
+            window.location.href = "https://portal.anhembi.br/";
+        };
+    </script>
+</body>
+</html>
